@@ -14,13 +14,13 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm currently a first year Ph.D. student in ECE department at University of Pittsburgh, advised by Prof. Peipei Zhou. I received my B.E. degree in Electronic Engineering from University of Electronic Science and Technology of China in 2021. My research focus on Heterogeneous Systems, Software and Hardware Co-design and Program Abstraction.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Heterogeneous Systems: FPGAs, GPUs and CPUs
+- Software and Hardware Co-design
+- Program Abstraction
 
 # Education to show in About widget
 education:
